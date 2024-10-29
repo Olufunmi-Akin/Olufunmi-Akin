@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a vast Data Analyst
 - 🌱 I’m currently learning upskilling my Data Analysis skill
 - 💞️ I’m looking for Data Analysis and Entry roles {Intership, Remote and Permanent}  
-- 📫 How to reach me : LinkedIn - http://linkedin.com/in/oluwafunmilayo-akintimehin-a653b3126
+- 📫 How to reach me : Email - debbyolufunmi20@gmail.com
 
 ### Skills & Tools
 - **Languages**: SQL
