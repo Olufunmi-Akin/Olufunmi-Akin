@@ -11,6 +11,9 @@
 ### My Projects
 Here are a few projects I'm working on:
 
+-**Class Work**: Building Interactive Dashboard Using Power BI
+-*Description*: In this class, we will 
+
 -**Project 1**: Sales Performance Analysis for a Retail Store
 - *Description*: In this project, you are tasked with analyzing the sales performance of a retail store. 
 You will need to explore sales data to uncover key insights such as top-selling products, regional 
