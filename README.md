@@ -11,8 +11,8 @@
 ### My Projects
 Here are a few projects I'm working on:
 
--**Class Work**: Building Interactive Dashboard Using Power BI
--*Description*: In this class, we will 
+-**Class Work**: Employee Retention and Attrition Analysis
+-*Description*: Employee turnover and attrition are critical issues for organizations, leading to increased costs, loss of knowledge, and operational disruptions. The HR team seeks to understand the factors driving employee turnover and attrition, assess the effectiveness of current retention strategies, and gauge overall employee satisfaction. The goal is to provide actionable insights through data analysis to improve retention strategies.
 
 -**Project 1**: Sales Performance Analysis for a Retail Store
 - *Description*: In this project, you are tasked with analyzing the sales performance of a retail store. 
