@@ -32,7 +32,8 @@ dashboard that presents your analysis
 
 ### Achievements
 -  🏆 Best Performance (Prospect) Award at Sun King Nigeria for 2023/2024
-- Completed: Data Analysis (SkillPaddy)
+-  Completed: Data Analysis (SkillPaddy)
+-  Completed: Data Analysis (Ladies-In-Tech-Africa)
 
 ### Connect with me
 - LinkedIn - http://linkedin.com/in/oluwafunmilayo-akintimehin-a653b3126
