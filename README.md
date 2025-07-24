@@ -6,7 +6,7 @@
 
 ### Skills & Tools
 - **Languages**: SQL
-- **Tools**: Excel, Power BI, Git
+- **Tools**: Excel, Power BI, Git, Looker
 
 ### My Projects
 Here are a few projects I'm working on:
