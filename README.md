@@ -11,10 +11,10 @@
 ### My Projects
 Here are a few projects I'm working on:
 
--**Class Work**: Employee Retention and Attrition Analysis
--*Description*: Employee turnover and attrition are critical issues for organizations, leading to increased costs, loss of knowledge, and operational disruptions. The HR team seeks to understand the factors driving employee turnover and attrition, assess the effectiveness of current retention strategies, and gauge overall employee satisfaction. The goal is to provide actionable insights through data analysis to improve retention strategies.
+- **Class Work**: Employee Retention and Attrition Analysis
+- *Description*: Employee turnover and attrition are critical issues for organizations, leading to increased costs, loss of knowledge, and operational disruptions. The HR team seeks to understand the factors driving employee turnover and attrition, assess the effectiveness of current retention strategies, and gauge overall employee satisfaction. The goal is to provide actionable insights through data analysis to improve retention strategies.
 
--**Project 1**: Sales Performance Analysis for a Retail Store
+- **Project 1**: Sales Performance Analysis for a Retail Store
 - *Description*: In this project, you are tasked with analyzing the sales performance of a retail store. 
 You will need to explore sales data to uncover key insights such as top-selling products, regional 
 performance, and monthly sales trends. The goal is to produce an interactive Power BI 
