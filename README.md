@@ -67,14 +67,6 @@ dashboard that presents your analysis
 - *Tools*: Excel, SQL and Power BI
 - *GitHub Link*: https://github.com/Olufunmi-Akin
 
-### Achievements
--  🏆 Best Performance (Prospect) Award at Sun King Nigeria for 2023/2024
--  Completed: Data Analysis (SkillPaddy)
--  Completed: Data Analysis (Ladies-In-Tech-Africa)
-
-### Connect with me
-- LinkedIn - http://linkedin.com/in/oluwafunmilayo-akintimehin-a653b3126
-- Github - https://github.com/Olufunmi-Akin
 <!---
 Olufunmi-Akin/Olufunmi-Akin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
