@@ -9,39 +9,37 @@ Currently, I work at Sun King, where I support customers, collaborate with cross
 - *Support data-driven decision-making with actionable insights*
 - *Collaborate with stakeholders to improve business processes and customer experience*
 ### 🛠️ Technical Skills
-SQL
-Looker
-Power BI
-Microsoft Excel
-Google Sheets
-Data Analysis
-Data Visualization
-Dashboard Development
-Business Intelligence
-CRM Systems
-Zendesk
-Git & GitHub
+- *SQL*
+- *Looker*
+- *Power BI*
+- *Microsoft Excel*
+- *Google Sheets*
+- *Data Analysis*
+- *Data Visualization*
+- *Dashboard Development*
+- *Business Intelligence*
+- *CRM Systems*
+- *Zendesk*
+- *Git & GitHub*
 ### 🌱 Currently Learning
-Advanced SQL
-Python for Data Analytics
-Customer Success & Service Management
-Business Intelligence Best Practices
+- *Advanced SQL*
+- *Python for Data Analytics*
+- *Customer Success & Service Management*
+- *Business Intelligence Best Practices*
 ### 📂 Featured Projects
-Customer Segmentation & Sales Performance Analysis
-Employee Attrition Analysis Dashboard
-PwC Switzerland Power BI Job Simulation
-Sales & Customer Performance Dashboards
-Looker Reporting Projects
+- *Customer Segmentation & Sales Performance Analysis*
+- *Employee Attrition Analysis Dashboard*
+- *PwC Switzerland Power BI Job Simulation*
+- *Sales & Customer Performance Dashboards*
+- *Looker Reporting Projects*
 ### 📜 Certifications
-Google Data Analytics Professional Certificate (In Progress)
-Data Analytics – SkillPaddy
-Data Analytics – The Incubator Hub
-PwC Switzerland Power BI Job Simulation (Forage)
-CounterHerInTech Program
-Ladies in Tech Africa Bootcamp
+- *Google Data Analytics Professional Certificate (In Progress)*
+- *Data Analytics – SkillPaddy (CounterHerInTech Program)*
+- *Data Analytics – The Incubator Hub (Ladies in Tech Africa Bootcamp)*
+- *PwC Switzerland Power BI Job Simulation (Forage)*
 ### 📫 Let's Connect
 📧 Email: debbyolufunmi20@gmail.com
-- 💞️ I'm always open to opportunities in Customer Success, Customer Experience, Service Management, Data Analytics, and Business Intelligence.
+-* 💞️ I'm always open to opportunities in Customer Success, Customer Experience, Service Management, Data Analytics, and Business Intelligence.*
 
 ### Skills & Tools
 - **Languages**: SQL
