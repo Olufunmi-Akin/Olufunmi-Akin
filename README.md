@@ -1,8 +1,48 @@
-- 👋 Hi, I’m Oluwafunmilayo Akintimehin
-- 👀 I’m interested in becoming a vast Data Analyst
-- 🌱 I’m currently learning upskilling my Data Analysis skill
-- 💞️ I’m looking for Data Analysis and Entry roles {Intership, Remote and Permanent}  
-- 📫 How to reach me : Email - debbyolufunmi20@gmail.com
+- 👋 Hi there, I’m Oluwafunmilayo Akintimehin
+- 👀 Customer Service & Data Analytics Professional
+I'm passionate about delivering exceptional customer experiences and using data to solve business problems. I have over five years of experience in customer service and customer relationship management, along with hands-on experience in data analytics, business intelligence, and reporting.
+
+Currently, I work at Sun King, where I support customers, collaborate with cross-functional teams, and use data to improve operational performance and customer satisfaction.
+- 👩🏽‍💻 What I Do
+Build interactive dashboards with Looker and Power BI
+Analyze business data using SQL, Excel, and Google Sheets
+Deliver customer-focused solutions through CRM and Zendesk
+Support data-driven decision-making with actionable insights
+Collaborate with stakeholders to improve business processes and customer experience
+- 🛠️ Technical Skills
+SQL
+Looker
+Power BI
+Microsoft Excel
+Google Sheets
+Data Analysis
+Data Visualization
+Dashboard Development
+Business Intelligence
+CRM Systems
+Zendesk
+Git & GitHub
+- 🌱 Currently Learning
+Advanced SQL
+Python for Data Analytics
+Customer Success & Service Management
+Business Intelligence Best Practices
+- 📂 Featured Projects
+Customer Segmentation & Sales Performance Analysis
+Employee Attrition Analysis Dashboard
+PwC Switzerland Power BI Job Simulation
+Sales & Customer Performance Dashboards
+Looker Reporting Projects
+- 📜 Certifications
+Google Data Analytics Professional Certificate (In Progress)
+Data Analytics – SkillPaddy
+Data Analytics – The Incubator Hub
+PwC Switzerland Power BI Job Simulation (Forage)
+CounterHerInTech Program
+Ladies in Tech Africa Bootcamp
+- 📫 Let's Connect
+📧 Email: debbyolufunmi20@gmail.com
+- 💞️ I'm always open to opportunities in Customer Success, Customer Experience, Service Management, Data Analytics, and Business Intelligence.
 
 ### Skills & Tools
 - **Languages**: SQL
