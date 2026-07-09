@@ -3,11 +3,11 @@
 I'm passionate about delivering exceptional customer experiences and using data to solve business problems. I have over five years of experience in customer service and customer relationship management, along with hands-on experience in data analytics, business intelligence, and reporting.
 Currently, I work at Sun King, where I support customers, collaborate with cross-functional teams, and use data to improve operational performance and customer satisfaction.
 ### 👩🏽‍💻 What I Do
-- ** Build interactive dashboards with Looker and Power BI**
-- ** Analyze business data using SQL, Excel, and Google Sheets**
-Deliver customer-focused solutions through CRM and Zendesk
-Support data-driven decision-making with actionable insights
-Collaborate with stakeholders to improve business processes and customer experience
+- *Build interactive dashboards with Looker and Power BI*
+- *Analyze business data using SQL, Excel, and Google Sheets*
+- *Deliver customer-focused solutions through CRM and Zendesk*
+- *Support data-driven decision-making with actionable insights*
+- *Collaborate with stakeholders to improve business processes and customer experience*
 ### 🛠️ Technical Skills
 SQL
 Looker
