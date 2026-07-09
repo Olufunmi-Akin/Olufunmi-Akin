@@ -4,7 +4,7 @@ I'm passionate about delivering exceptional customer experiences and using data 
 
 Currently, I work at Sun King, where I support customers, collaborate with cross-functional teams, and use data to improve operational performance and customer satisfaction.
 - 👩🏽‍💻 What I Do
-Build interactive dashboards with Looker and Power BI
+- ** Build interactive dashboards with Looker and Power BI
 Analyze business data using SQL, Excel, and Google Sheets
 Deliver customer-focused solutions through CRM and Zendesk
 Support data-driven decision-making with actionable insights
