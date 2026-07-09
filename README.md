@@ -39,11 +39,8 @@ Currently, I work at Sun King, where I support customers, collaborate with cross
 - *PwC Switzerland Power BI Job Simulation (Forage)*
 ### 📫 Let's Connect
 📧 Email: debbyolufunmi20@gmail.com
--* 💞️ I'm always open to opportunities in Customer Success, Customer Experience, Service Management, Data Analytics, and Business Intelligence.*
 
-### Skills & Tools
-- **Languages**: SQL
-- **Tools**: Excel, Power BI, Git, Looker
+-* 💞️ I'm always open to opportunities in Customer Success, Customer Experience, Service Management, Data Analytics, and Business Intelligence.*
 
 ### My Projects
 Here are a few projects I'm working on:
