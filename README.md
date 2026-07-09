@@ -29,10 +29,9 @@ I'm passionate about delivering exceptional customer experiences and using data 
 - *Customer Success & Service Management*
 - *Business Intelligence Best Practices*
 ### 📂 Featured Projects
-- *Customer Segmentation & Sales Performance Analysis*
 - *Employee Attrition Analysis Dashboard*
-- *PwC Switzerland Power BI Job Simulation*
 - *Sales & Customer Performance Dashboards*
+- *Customer Segmentation & Sales Performance Analysis*
 - *Looker Reporting Projects*
 ### 📜 Certifications
 - *Google Data Analytics Professional Certificate (In Progress)*
