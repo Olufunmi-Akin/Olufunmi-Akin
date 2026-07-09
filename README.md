@@ -35,8 +35,9 @@ I'm passionate about delivering exceptional customer experiences and using data 
 - *Looker Reporting Projects*
 ### 📜 Certifications
 - *Google Data Analytics Professional Certificate (In Progress)*
-- *Data Analytics – SkillPaddy (CounterHerInTech Program)*
+- *Data Analytics – Sun King*
 - *Data Analytics – The Incubator Hub (Ladies in Tech Africa Bootcamp)*
+- *Data Analytics – SkillPaddy (CounterHerInTech Program)*
 - *PwC Switzerland Power BI Job Simulation (Forage)*
 ### 📫 Let's Connect
 📧 Email: debbyolufunmi20@gmail.com
