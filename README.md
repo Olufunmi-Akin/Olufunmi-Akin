@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Oluwafunmilayo Akintimehin
+👋 Hi there, I’m Oluwafunmilayo Akintimehin
 - 👀 Customer Service & Data Analytics Professional
 I'm passionate about delivering exceptional customer experiences and using data to solve business problems. I have over five years of experience in customer service and customer relationship management, along with hands-on experience in data analytics, business intelligence, and reporting.
 
