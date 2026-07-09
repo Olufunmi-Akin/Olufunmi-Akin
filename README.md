@@ -1,7 +1,7 @@
-### Hi there! 👋, I’m Oluwafunmilayo Akintimehin
+### Hi there! 👋 I’m Oluwafunmilayo Akintimehin
 ### Customer Service & Data Analytics Professional
 I'm passionate about delivering exceptional customer experiences and using data to solve business problems. I have over five years of experience in customer service and customer relationship management, along with hands-on experience in data analytics, business intelligence, and reporting.
-Currently, I work at Sun King, where I support customers, collaborate with cross-functional teams, and use data to improve operational performance and customer satisfaction.
+ Currently, I work at Sun King, where I support customers, collaborate with cross-functional teams, and use data to improve operational performance and customer satisfaction.
 ### 👩🏽‍💻 What I Do
 - *Build interactive dashboards with Looker and Power BI*
 - *Analyze business data using SQL, Excel, and Google Sheets*
