@@ -42,7 +42,7 @@ I'm passionate about delivering exceptional customer experiences and using data 
 ### 📫 Let's Connect
 📧 Email: debbyolufunmi20@gmail.com, olufunmi.akintimehin@gmail.com
 
-💞️ I'm always open to opportunities in Customer Success, Customer Experience, Service Management, Data Analytics, and Business Intelligence.
+💞️ I'm always open to opportunities in Customer Success, Customer Experience, Data Analytics, and Business Intelligence.
 
 <!---
 Olufunmi-Akin/Olufunmi-Akin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
