@@ -43,7 +43,7 @@ I'm passionate about delivering exceptional customer experiences and using data 
 
 📧 Email: debbyolufunmi20@gmail.com | olufunmi.akintimehin@gmail.com
 
-💼 LinkedIn: Connect with me
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/oluwafunmilayo-akintimehin-7a170a43a)
 
 💞️ I'm always open to opportunities in Customer Success, Customer Experience, Data Analytics, and Business Intelligence.
 
