@@ -40,7 +40,9 @@ I'm passionate about delivering exceptional customer experiences and using data 
 - *Data Analytics – SkillPaddy (CounterHerInTech Program)*
 - *PwC Switzerland Power BI Job Simulation (Forage)*
 ### 📫 Let’s Connect
-📧 Email: debbyolufunmi20@gmail.com, olufunmi.akintimehin@gmail.com
+
+📧 Email: debbyolufunmi20@gmail.com | olufunmi.akintimehin@gmail.com
+
 💼 LinkedIn: Connect with me
 
 💞️ I'm always open to opportunities in Customer Success, Customer Experience, Data Analytics, and Business Intelligence.
